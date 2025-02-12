@@ -7,6 +7,7 @@ Most profitable product is accessories. Contributing %33 of revenue, %61 of prof
 
 ![Profit by Product Category and Sub Category](dataVisualizations/ProfitbyProductCategoryAndSubCategory.png)
 
+![Profit by Product Category by Countries](dataVisualizations/ProfitByCountryAndProduct.png)
 
 ## Insights Deep-Dive
 
@@ -16,3 +17,4 @@ Most profitable product is accessories. Contributing %33 of revenue, %61 of prof
 But in the last month, sales collapsed to pre 2016 level. Sales downby 62%, profit by 70%, and revenue by 79%. Bike sales are collapsed this month to %0 from %26 revenue last month.
 
 ![Profit Per Month Plot Line](dataVisualizations/beyaz.png)
+
