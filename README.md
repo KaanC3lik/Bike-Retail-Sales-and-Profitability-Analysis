@@ -5,7 +5,7 @@
 Sales analysis of 34.8k records across 2015-2016 shows annual revenue stabilizing at around $11 million, with United state contributing %46 of revenue, %52 of sales and %31 of profit. In terms of country-wise profit, most of the profit is earned from Germany, accounting for 42% of the total profit.
 Most profitable product is accessories. Contributing %33 of revenue, %61 of profit and %65 of sales. And 2/3 of accessories profit came from 3 sub product. Helmets, tire and tubes.
 
-![Profit by Product Category and Sub Varegory](dataVisualizations/ProfitbyProductCategory.pnsg)
+![Profit by Product Category and Sub Category](dataVisualizations/ProfitbyProductCategoryAndSubCategory.png)
 
 
 ## Insights Deep-Dive
