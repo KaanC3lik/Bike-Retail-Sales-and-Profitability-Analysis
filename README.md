@@ -13,8 +13,7 @@ Most profitable product is accessories. Contributing %33 of revenue, %61 of prof
 
 ### Sales Trends and Growth Rates
 
---In first 7 month of 2016 we already passed last year's revenue by %25. But most importantly our profit skyrocketed from 288k to 1.9m, it is %583 more than last year. This is mostly because of bike sales, which we make a -175k loss last year, started to made 512k profit this year.
-But in the last month, sales collapsed to pre 2016 level. Sales downby 62%, profit by 70%, and revenue by 79%. Bike sales are collapsed this month to %0 from %26 revenue last month.
+In first 7 month of 2016 we already passed last year's revenue by %25. But most importantly starting from 2016 profit skyrocketed from 288k to 1.9m, it is %583 more than last year. This is mostly because of bike sales, which we make a -175k loss last year, started to made 512k profit this year.But in the last month, sales collapsed to pre 2016 level. Sales down by 62%, profit by 70%, and revenue by 79%. Bike sales are collapsed this month to %0 from %26 revenue last month.
 
 ![Profit Per Month Plot Line](dataVisualizations/beyaz.png)
 
