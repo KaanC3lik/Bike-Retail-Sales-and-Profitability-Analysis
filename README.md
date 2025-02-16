@@ -21,7 +21,7 @@ In 2015 Bike sales, made a -175k loss. In the first 6 month of 2016, bikes sales
 ![Profit Per Month Plot Line](dataVisualizations/ProfitByProductGategoryAndSubCategoryLineGraph.png)
 
 ### Country and State Performance
-Germany accounts for 42% of the total profit while contributing only 19% of the revenue. The highest profit margin is earned from Germany, and sales there are evenly distributed. Therefore, sales operations in Germany should focus on the entire country.
+Germany accounts for 42% of the total profit while contributing only 19% of the revenue. It has the highest profit margin, and sales there are evenly distributed across the states where our stores operate. Therefore, sales operations in Germany should focus on the entire country.
 However, in other countries, certain states—such as California, England, and Washington—together account for 59% of the revenue but only 41% of the profit. Outside of Germany, the focus should be on these states.
 
 ![Profit Per Month Plot Line](dataVisualizations/ProfitAndRevenueByProductCategoryPerState.png)
