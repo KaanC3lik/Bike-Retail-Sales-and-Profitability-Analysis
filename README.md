@@ -1,8 +1,14 @@
-# Data-Analyses-Project-Bike-Store-Sales
+# Customer Segmentation Data for Marketing Analysis
 
 ## Tableu Dashboard
-You can click the image below for interactive dashboard.
+Click the image below for interactive dashboard.
+
 [![Tableau Dashboard](dataVisualizations/Dashboard.png)](https://public.tableau.com/app/profile/kaan.elik/viz/DataAnalysisProject-BikeStoreSales/Dashboard2)
+
+## Dataset
+Click the image below for databese source.
+
+[![Profit by Product Category and Sub Category](dataVisualizations/Dataset.png)](https://www.kaggle.com/datasets/fahmidachowdhury/customer-segmentation-data-for-marketing-analysis)
 
 ## Executive Summary
 
@@ -25,6 +31,7 @@ In 2015 Bike sales, made a -175k loss. In the first 6 month of 2016, bikes sales
 ![Profit Per Month Plot Line](dataVisualizations/ProfitByProductGategoryAndSubCategoryLineGraph.png)
 
 ### Country and State Performance
+
 Germany accounts for 42% of the total profit while contributing only 19% of the revenue. It has the highest profit margin, and sales there are evenly distributed across the states where our stores operate. Therefore, sales operations in Germany should focus on the entire country.
 However, in other countries, certain states—such as California, England, and Washington—together account for 59% of the revenue but only 41% of the profit. Outside of Germany, the focus should be on these states.
 
