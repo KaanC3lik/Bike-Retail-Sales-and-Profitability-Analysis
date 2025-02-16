@@ -1,4 +1,4 @@
-# Customer Segmentation Data for Marketing Analysis
+# Analyzing Customer Spending Habits 
 
 ## Tableu Dashboard
 Click the image below for interactive dashboard.
@@ -8,7 +8,7 @@ Click the image below for interactive dashboard.
 ## Dataset
 Click the image below for databese source.
 
-[![Profit by Product Category and Sub Category](dataVisualizations/Dataset.png)](https://www.kaggle.com/datasets/fahmidachowdhury/customer-segmentation-data-for-marketing-analysis)
+[![Profit by Product Category and Sub Category](dataVisualizations/Dataset.png)](https://www.kaggle.com/datasets/thedevastator/analyzing-customer-spending-habits-to-improve-sa)
 
 ## Executive Summary
 
