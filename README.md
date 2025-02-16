@@ -1,4 +1,8 @@
-# Data-Analyses-Project
+# Data-Analyses-Project-Bike-Store-Sales
+
+## Tableu Dashboard
+You can click the image below for interactive dashboard.
+[![Tableau Dashboard](dataVisualizations/Dashboard.png)](https://public.tableau.com/app/profile/kaan.elik/viz/DataAnalysisProject-BikeStoreSales/Dashboard2)
 
 ## Executive Summary
 
