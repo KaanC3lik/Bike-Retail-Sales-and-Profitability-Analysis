@@ -1,4 +1,4 @@
-# Analyzing Customer Spending Habits 
+# Bike Retail Sales and Profitability Analysis
 
 Table of Contents
 
