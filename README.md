@@ -6,7 +6,7 @@ Table of Contents
 - [Tableu Dashboard](#tableu-dashboard)
 - [Executive Summary](#executive-summary)
     - [Sales Trends and Growth Rates](#sales-trends-and-growth-rates)
-    - [Key Product Performance](#key-P-product-P-performance)
+    - [Key Product Performance](#key-product-performance)
     - [Country and State Performance](#country-and-state-performance)
     - [Losses-From-2015-and-Customer-Age-in-USA](#Losses-From-2015-and-Customer-Age-in-USA)
 - [Recommendations](#Recommendations)
